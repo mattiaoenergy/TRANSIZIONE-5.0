@@ -1,0 +1,168 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Piano Transizione 5.0 e Industria 4.0</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+        }
+        .container {
+            max-width: 900px;
+            margin: auto;
+            padding: 20px;
+            background: #fff;
+            margin-top: 30px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+        h1, h2, h3 {
+            color: #333;
+        }
+        .section {
+            margin-bottom: 20px;
+        }
+        .section h2 {
+            border-bottom: 2px solid #333;
+            padding-bottom: 5px;
+        }
+        .example {
+            background: #e9e9e9;
+            padding: 10px;
+            border-left: 5px solid #333;
+        }
+        .footer {
+            text-align: center;
+            padding: 20px;
+            background: #333;
+            color: #fff;
+            position: fixed;
+            width: 100%;
+            bottom: 0;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Piano Transizione 5.0 e Industria 4.0</h1>
+
+        <div class="section">
+            <h2>1. Chi può ottenere l'incentivo</h2>
+            <p>Tutte le imprese in Italia, indipendentemente dalla loro dimensione o settore. Non possono ottenerlo le imprese in liquidazione, fallimento, o con altre problematiche legali.</p>
+        </div>
+
+        <div class="section">
+            <h2>2. Quali investimenti sono agevolabili</h2>
+            <h3>Transizione 5.0</h3>
+            <ul>
+                <li>Impianti fotovoltaici e altri sistemi per produrre energia rinnovabile.</li>
+                <li>Software e piattaforme per monitorare e gestire il consumo energetico.</li>
+            </ul>
+            <h3>Industria 4.0</h3>
+            <ul>
+                <li>Macchinari interconnessi</li>
+                <li>Sistemi di automazione avanzata</li>
+                <li>Software di gestione integrata</li>
+                <li>Dispositivi IoT (Internet of Things)</li>
+                <li>Tecnologie additive</li>
+                <li>Rifasatori</li>
+            </ul>
+        </div>
+
+        <div class="section">
+            <h2>3. Come ottenere l'incentivo</h2>
+            <h3>a. Pianificare l'investimento</h3>
+            <p>Decidi cosa vuoi fare:</p>
+            <ul>
+                <li><strong>Industria 4.0</strong>: Investi in macchinari interconnessi, robot, software di gestione integrata, dispositivi IoT, rifasatori, ecc.</li>
+                <li><strong>Transizione 5.0</strong>: Investi in impianti fotovoltaici e software per monitoraggio energetico.</li>
+            </ul>
+            <h3>b. Certificazione Ex Ante</h3>
+            <p>Una società autorizzata deve certificare che l'investimento ridurrà i consumi energetici. Non serve per forza un Esperto in Gestione dell'Energia (EGE).</p>
+            <h3>c. Domanda al GSE</h3>
+            <p>Invia al GSE (Gestore dei Servizi Energetici) la certificazione e i dettagli del progetto.</p>
+            <h3>d. Verifica del GSE</h3>
+            <p>Il GSE controlla i documenti e conferma se tutto è in regola.</p>
+            <h3>e. Comunicazioni periodiche</h3>
+            <p>Devi aggiornare il GSE su come sta andando l'investimento.</p>
+            <h3>f. Certificazione Ex Post</h3>
+            <p>Una volta finito l'investimento, la società deve certificare che tutto è stato fatto come previsto.</p>
+            <h3>g. Trasmissione dei dati all'Agenzia delle Entrate</h3>
+            <p>Il GSE invia all'Agenzia delle Entrate i dettagli dell'incentivo.</p>
+            <h3>h. Uso del credito d'imposta</h3>
+            <p>Usa il credito d'imposta nel modello F24 per ridurre le tue tasse entro il 31 dicembre 2025. Se non usi tutto, puoi spalmare il credito in 5 anni.</p>
+        </div>
+
+        <div class="section">
+            <h2>4. Calcolo del contributo</h2>
+            <p>Percentuali del credito d’imposta:</p>
+            <ul>
+                <li>35% per investimenti fino a 2,5 milioni di euro.</li>
+                <li>15% per investimenti tra 2,5 e 10 milioni di euro.</li>
+                <li>5% per investimenti oltre 10 milioni di euro fino a 50 milioni di euro annui.</li>
+            </ul>
+            <p><strong>Incremento delle percentuali:</strong></p>
+            <ul>
+                <li>40% per la quota fino a 2,5 milioni di euro, 20% per la quota tra 2,5 e 10 milioni di euro, e 10% per la quota oltre 10 milioni di euro, nel caso di riduzione dei consumi energetici superiore al 6% o, alternativamente, del 10% per i processi interessati.</li>
+                <li>45% per la quota fino a 2,5 milioni di euro, 25% per la quota tra 2,5 e 10 milioni di euro, e 15% per la quota oltre 10 milioni di euro, nel caso di riduzione dei consumi energetici superiore al 10% o, alternativamente, del 15% per i processi interessati.</li>
+            </ul>
+        </div>
+
+        <div class="section">
+            <h2>5. Limiti di spesa per kW per gli impianti fotovoltaici</h2>
+            <ul>
+                <li>€1.170/kW per impianti fino a 20 kW.</li>
+                <li>€940/kW per impianti tra 20 e 200 kW.</li>
+                <li>€860/kW per impianti tra 200 e 600 kW.</li>
+                <li>€820/kW per impianti tra 600 e 1000 kW.</li>
+                <li>€780/kW per impianti oltre 1000 kW.</li>
+            </ul>
+            <p><strong>Contributo Calcolato sui Limiti Massimi:</strong> Se il costo dell'impianto è superiore ai limiti sopra indicati, il contributo sarà calcolato come se il costo fosse pari al limite massimo ammissibile. Ad esempio, se il costo effettivo è €1.100 per kW ma il limite è €940 per kW, il contributo sarà calcolato su €940 per kW.</p>
+        </div>
+
+        <div class="section">
+            <h2>6. Cumulo delle agevolazioni</h2>
+            <p>Puoi sommare questo incentivo con altre agevolazioni, ma non devi superare il costo totale dell'investimento.</p>
+        </div>
+
+        <div class="section">
+            <h2>7. Spese per certificazioni e asseverazioni</h2>
+            <p>I costi sostenuti per le certificazioni e le asseverazioni sono riconosciuti nel credito d'imposta. Questo include le spese per ottenere le certificazioni ex ante ed ex post necessarie per dimostrare la riduzione dei consumi energetici e l'efficacia degli investimenti.</p>
+            <p><strong>Importi riconosciuti:</strong></p>
+            <ul>
+                <li><strong>PMI:</strong> Fino a un massimo di 10.000 euro per le spese sostenute per adempiere agli obblighi di certificazione di cui all’articolo 14.</li>
+                <li><strong>Soggetti non obbligati per legge alla revisione legale dei conti:</strong> Fino a un massimo di 5.000 euro per le spese sostenute per adempiere all’obbligo di certificazione di cui all’articolo 16.</li>
+            </ul>
+        </div>
+
+        <div class="section">
+            <h2>8. Collegamento con Industria 4.0</h2>
+            <p>Per innescare il Piano Transizione 5.0, è necessario effettuare investimenti nell'ambito di Industria 4.0. Gli investimenti devono riguardare beni materiali nuovi strumentali all’esercizio d’impresa, che contribuiscano alla digitalizzazione e all’efficienza energetica dei processi produttivi.</p>
+        </div>
+
+        <div class="section example">
+            <h2>Esempio Pratico: Installazione di un Rifasatore</h2>
+            <p>1. Decidi di installare un rifasatore e un impianto fotovoltaico da 50 kW:</p>
+            <ul>
+                <li><strong>Rifasatore (Industria 4.0)</strong>: Installazione di un rifasatore per migliorare il fattore di potenza dei macchinari e ridurre i consumi energetici.</li>
+                <li><strong>Impianto fotovoltaico (Transizione 5.0)</strong>: Pannelli solari per ridurre i costi energetici.</li>
+                <li><strong>Macchinari Industria 4.0</strong>: Acquisto di macchinari interconnessi e robot industriali per automatizzare la produzione.</li>
+                <li><strong>Software di gestione</strong>: Implementazione di un sistema ERP per integrare e gestire tutti i processi aziendali.</li>
+            </ul>
+            <p>2. Certificazione Ex Ante: Una società autorizzata certifica che l'installazione del rifasatore, l'impianto fotovoltaico e i macchinari ridurranno i tuoi consumi energetici.</p>
+            <p>3. Invii la documentazione al GSE: Invia il progetto dettagliato e la certificazione ex ante.</p>
+            <p>4. Il GSE verifica e conferma la tua richiesta: Il GSE controlla che tutto sia in regola e conferma l'ammissibilità del progetto.</p>
+            <p>5. Fai installare il rifasatore, l'impianto e acquisti i macchinari e aggiorni periodicamente il GSE: Esegui l'installazione e l'acquisto, tenendo informato il GSE sull'avanzamento.</p>
+            <p>6. Certificazione Ex Post: La società conferma che il rifasatore, l'impianto e i macchinari sono stati installati correttamente e funzionano come previsto.</p>
+            <p>7. Usi il credito d'imposta per ridurre le tue tasse: Presenta il modello F24 per ottenere il credito d'imposta.</p>
+        </div>
+    </div>
+    <div class="footer">
+        &copy; 2024 Piano Transizione 5.0 e Industria 4.0
+    </div>
+</body>
+</html>
